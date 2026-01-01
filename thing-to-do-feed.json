@@ -1,7 +1,26 @@
 {
     "providerName": "Ogijaoh",
     "language": "en-US",
-    "Card": [
+    "shortFormVideos": [
+        {
+            "longDescription": "The familiar fun race to yell 'UNO!' comes with wild, new choices! While playing the color and numbers matching game, you're faced with a decision: draw extra cards or take a dare! Dare cards come in 3 categories: Family, Show-Off and Daredevil, with 16 dares on each card, and 1 House Rules blank card where you can make up your own rules! You may end up talking like a pirate until your next turn, or standing on one foot, or even showing your best dance moves! What will you risk drawing more cards or doing something wild? Find out when you play this new version of the classic UNO™ game - if you DARE! And don't forget to yell 'UNO!', even if you have to do it like a pirate, matey! Comes with instructions and 112 playing cards. Colors and decorations may vary.",
+            "thumbnail": "https://images.mattel.net/image/upload/w_180,f_auto,c_scale/shop-us-prod/files/jizib5uc5kejun9eimdi.jpg",
+            "releaseDate": "2019-02-01",
+            "genres": [
+                "card"
+            ],
+            "tags": [
+                "uno, unodare, cards, game"
+            ],
+            "id": "uno-dare",
+            "shortDescription": "Uno Dare!",
+            "title": "Uno Dare!",
+            "content": {
+                "duration": 900,
+                "language": "en-US",
+                "dateAdded": "2026-01-01T21:00:00Z"
+            }
+        },
         {
             "longDescription": "Brace yourself for the next iteration of classic UNO™: UNO FLIP!™. It's the matching game you know, plus exciting new twists -- like a double-sided deck, special FLIP card and tougher penalties -- that give classic gameplay a competitive edge. There is a 'Light Side' to the deck, which plays like classic UNO™, and a 'Dark Side' where penalties are super-tough. Play the FLIP card and all cards in your hand, the draw pile and draw deck are flipped over to reveal an entirely new set of numbers and colors on the opposite side! The holder of the FLIP card determines whether or not you play on the Light Side or Dark Side of the deck -- and when you switch it back around. The Dark Side of the deck includes new action cards that really shake things up, like Draw Five and Skip Everyone cards. Strategize to rattle your competition and be the first to get rid of your cards to win. When you're down to one card, don't forget to shout 'UNO!' This fun family card game is perfect for 7 year olds and up. Colors and decorations may vary.",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d0/Uno_Flip_Cover.jpg",
@@ -10,7 +29,7 @@
                 "card"
             ],
             "tags": [
-                "uno, cardgames"
+                "uno, unoflip, cards, game"
             ],
             "id": "uno-flip",
             "shortDescription": "Uno Flip! is an uno variation that makes use of both sides of the cards.",

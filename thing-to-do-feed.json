@@ -16,11 +16,14 @@
             "shortDescription": "Uno Flip! is an uno variation that makes use of both sides of the cards.",
             "title": "Uno Flip!",
             "content": {
+                "duration": 900,
                 "videos": [{
                     "videoType": "MP4",
                     "url": "https://www.youtube.com/watch?v=stRMYFXujCE",
                     "quality": "HD"
-                }]
+                }],
+                "language": "en-US",
+                "dateAdded": "2026-01-01T21:00:00Z"
             }
         }
     ]
